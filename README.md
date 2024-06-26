@@ -44,5 +44,5 @@ its a categorical column with three unique values fully paid, charged-off (defau
 
 
 ## Contact
-Created by [@sumitag07 @Harshdeep-Singh-kh] - feel free to contact me!
+Created by [@sumitag07 @Harshdeep-Singh-kh] - feel free to contact us!
 
